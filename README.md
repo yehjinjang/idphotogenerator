@@ -1,4 +1,4 @@
-## Photo Generator 
+## ID Photo Generator 
 
 ## 📌 Overview
 
@@ -6,13 +6,14 @@
 
 ## 📅 Period
 
-2025.4.2 ~ 4.8 
+2025년 4월 2일 ~ 4월 8일 
 
 ## 👥 Team
 
+|                                                 장예진                                                  |                                                 정수인                                                  |                                                 정재욱                                                  |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/517ac756-27a4-4df0-8307-bd87632eca74" width="180"> | <img src="https://github.com/user-attachments/assets/120e9b3a-ff8c-4c3e-a4f3-7745f470bbc8" width="180"> | <img src="https://github.com/user-attachments/assets/3540f397-6882-4572-a337-635db4621087" width="180"> |
-|                    [@danidanicarrotcarrot](https://github.com/danidanicarrotcarrot)                     |                              [@AlpacaMale](https://github.com/AlpacaMale)                               |                              [@yehjinjang](https://github.com/yehjinjang)                               |
+| <img src="https://avatars.githubusercontent.com/u/101628142?v=4" width="180"> | <img src="https://avatars.githubusercontent.com/u/192847666?v=4" width="180"> | <img src="https://avatars.githubusercontent.com/u/198744774?v=4" width="180"> |
+|                    [@yehjinjang](https://github.com/yehjinjang)                     |                              [@sooin1516717](https://github.com/sooin1516717)                               |                              [@roy-jeong1116](https://github.com/roy-jeong1116)                               |
 
 ## 🛠️ Skills
 
