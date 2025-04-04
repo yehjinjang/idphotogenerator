@@ -300,16 +300,3 @@ if uploaded_file:
 
     except Exception as e:
         st.error(f"이미지 로딩 중 오류 발생: {e}")
-if uploaded_file:
-    try:
-        image = Image.open(uploaded_file).convert("RGB")
-
-        if target == "사람":
-            process_human(image)
-        else:
-            st.warning("현재 반려동물 기능은 준비 중입니다!")
-
-    except Exception as e:
-        st.error(f"이미지 로딩 중 오류 발생: {e}")
-else:
-    st.info("좌측 사이드바에서 설정 후 이미지를 업로드해 주세요.")
