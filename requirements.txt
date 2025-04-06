@@ -1,0 +1,27 @@
+# Streamlit 웹앱
+streamlit==1.32.2
+
+# 얼굴/이미지 처리
+mediapipe==0.10.21
+opencv-python==4.9.0.80
+Pillow==10.2.0
+numpy==1.26.4
+rembg==2.0.51
+
+# YOLOv8 - 반려동물 얼굴 탐지
+ultralytics==8.3.101
+torch==2.6.0
+torchvision==0.21.0
+
+# Stable Diffusion Inpainting
+huggingface_hub==0.20.3
+diffusers==0.27.2
+transformers==4.40.0
+accelerate==0.30.1
+safetensors==0.4.2
+
+# rembg runtime dependency
+onnxruntime==1.17.1
+
+# 보조 라이브러리 (환경변수, etc)
+python-dotenv==1.0.1
