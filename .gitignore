@@ -1,7 +1,12 @@
 env/ 
+.env
 __pycache__/
 .DS_Store
-.env
 /models
 /venv
 /.venv
+
+.venv
+
+.python-version
+
