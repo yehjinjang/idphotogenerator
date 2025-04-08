@@ -94,6 +94,5 @@ elif st.session_state.step == "result":
         st.session_state.step = "upload"
         st.experimental_rerun()
 
-# 푸터
 st.markdown("---")
 st.caption("AI 증명사진 생성기 • 만든 사람: 장예진 정수인 정재욱 🤖")
